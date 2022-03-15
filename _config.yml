@@ -10,6 +10,7 @@ author: LeeSohyeon
 
 navbar-links:
   About Me: "aboutme"
+  ForStudy: "study"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
