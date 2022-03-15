@@ -1,12 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: > 개발자를 하기 위해 포항에서 올라온 성실한 예비 개발자 
 ---
-
-# About me
-
-> 개발자를 하기 위해 포항에서 올라온 성실한 예비 개발자 
 
 - 관심있는 기술 : java, 최근에는 ajax, 게임 만들기 위한 C언어, jpa(외국에서 많이 사용한다고 하며 mybatis보다 코드가 간단해진다는 장점)
 
