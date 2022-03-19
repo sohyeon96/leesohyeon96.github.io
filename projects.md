@@ -40,9 +40,9 @@ subtitle: 진행한 프로젝트들
 
 - 맡은 역할 : PM (회의록, 개발진행사항, 개발업무일지 등을 관리)
 
-  <src="img/SemiMeetingLog">
+  <img src="img/SemiMeetingLog.png">
 
-  <src="img/SemiProgress">
+  <img src="img/SemiProgress.png">
 
-  <src="img/semiIssueTracking">
+  <img src="img/semiIssueTracking.png">
 
