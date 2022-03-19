@@ -32,7 +32,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "vkfkswjs26@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: leesohyeon96
   youtube: /channel/UCfvC6YdtLAyTH4GXmNYrx1Q
 # 나중에 여기에 노션  : 링크 걸어도 될듯?
