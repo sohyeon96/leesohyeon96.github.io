@@ -48,7 +48,7 @@ subtitle: 진행한 프로젝트들
 
 - 팀원 한마디 : '놓치지 않는 팀원'
 
-  <img src="semiProjectTeamIntroduce.png">
+  <img src="img/semiProjectTeamIntroduce.png">
 
 - 프로그램 내 구현 기능 
   - 로그인  : 일반 멤버,관리자 등 사용자가 로그인 할 수 있도록 하는 목적을 가진 기능 
@@ -64,13 +64,13 @@ subtitle: 진행한 프로젝트들
 
     [전체적인 흐름]
 
-    <img src="semiProjectFindPassword1.png">
+    <img src="img/semiProjectFindPassword1.png">
 
     [코드 흐름]
 
-    <img src="semiProjectFindPassword2.png">
+    <img src="img/semiProjectFindPassword2.png">
 
-    <img src="semiProjectFindPassword3.png">
+    <img src="img/semiProjectFindPassword3.png">
 
 
 
