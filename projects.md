@@ -1,5 +1,6 @@
-Mini Project
+# Projects
 
-Semi Project
+- Mini Project
+- Semi Project
+- Final Project
 
-Final Project
