@@ -22,7 +22,7 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
   - 역할 : PM (일정관리, 이슈트레킹, 개발업무일지 정리 등)
 
-  - 팀원 한마디  ![image-20220314170202086](C:\Users\vkfks\AppData\Roaming\Typora\typora-user-images\image-20220314170202086.png)
+  - 팀원 한마디 : <img src="../img/semiProjectTeamIntroduce.png">
 
     -> 요약 : 의사소통이 활발하며 적극적인 팀원 
 
