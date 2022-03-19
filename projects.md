@@ -6,9 +6,9 @@ subtitle: 진행한 프로젝트들
 
 # Projects
 
-- [Mini Project](#mini)
-- [Semi Project](#semi)
-- [Final Project](#final)
+- [Mini Project](#mini-project)
+- [Semi Project](#semi-project)
+- [Final Project](#final-project)
 
 
 
@@ -32,7 +32,7 @@ subtitle: 진행한 프로젝트들
 
 
 
-#Semi
+#Semi Project
 
 (2) Semi Project
 
