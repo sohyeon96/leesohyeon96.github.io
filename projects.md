@@ -68,7 +68,7 @@ subtitle: 진행한 프로젝트들
 
     [코드 흐름]
 
-    <img src="img/semiProjectFindPassword2.png">
+    <img src="img/semiProjectFindPassword.png">
 
     <img src="img/semiProjectFindPassword3.png">
 
