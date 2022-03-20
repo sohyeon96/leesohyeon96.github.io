@@ -111,6 +111,6 @@ subtitle: 진행한 프로젝트들
 
     <img src="img/semiProjectManagementRegist2.png">
 
-    <img src="img/semiProjectManagementRegist3.png">
+    <img src="img/semiProjectManagementRegist4.png">
 
 
