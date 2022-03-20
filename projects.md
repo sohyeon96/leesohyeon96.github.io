@@ -89,5 +89,28 @@ subtitle: 진행한 프로젝트들
     <img src="img/semiProjectFindPassword3.png">
 
 
+  - 캘린더 - 일정 생성
+
+    [전체적인 흐름]
+
+    <img src="img/semiProjectCalendarRegist1.png">
+
+    [코드 흐름]
+
+    <img src="">
+
+
+
+  - 멤버 계정 관리 - 생성
+
+    [전체적인 흐름]
+
+    <img src="img/semiProjectManagementRegist1.png">
+
+    [코드 흐름]
+
+    <img src="img/semiProjectManagementRegist2.png">
+
+    <img src="img/semiProjectManagementRegist3.png">
 
 
