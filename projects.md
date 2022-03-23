@@ -49,7 +49,7 @@ subtitle: 진행한 프로젝트들
   - Sourcetree : git을 사용자가 쉽게 사용할 수 있도록 GUI환경을 제공해주기 때문에 사용하였습니다.
   - DBeaver
   - GitLab : 용량 무제한의 무료 레퍼지토리를 개인 및 공용으로 제공해주어 대량의 정보관리가 필요한 BYAT에 적합하다고 생각하여 사용하였습니다.
-  <img src="img/semiTools.png">
+  <img src="../img/semiTools.png">
 
 - 맡은 역할 : PM (회의록, 개발진행사항, 개발업무일지 등을 관리)
 
