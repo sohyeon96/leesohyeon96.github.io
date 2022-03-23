@@ -30,7 +30,7 @@ subtitle: 진행한 프로젝트들
 
 
 
-<script src="https://gist.github.com/leesohyeon96/05473fe8cb3688649e6a3733ac36b227.js">자세히보기</script>
+<script src="https://gist.github.com/leesohyeon96/05473fe8cb3688649e6a3733ac36b227.js"></script>
 
 (2) Semi Project
 
