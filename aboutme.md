@@ -35,11 +35,11 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
 2)  배운 개념을 조금이라도 활용하여 **'개인 미니 프로젝트'** 를 만들기도 하였습니다. 
 
-   <img src="../img/myPersonalProjects.png">
+   <img src="../img/newPersonalProjects1.png">
 
 3)  Notion에서 dailyLog라는 **'매일 쓰는 개발일기'** 를 하루도 빠짐없이 작성하여 본인의 위치를 파악하고 반성하며 성장해나갈 수 있도록 하였습니다.
 
-   <img src="../img/dailyLog.png">
+   <img src="../img/notionDailyLog.png">
 
 4) **Mini, Semi, Fianl Project**에서 본인이 맡은 일에 최선을 다하고 나아가 팀원들과 소통하도록 노력했습니다.  (**Projects 메뉴**에서 자세히 확인하실 수 있습니다.)
 
