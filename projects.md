@@ -30,7 +30,7 @@ subtitle: 진행한 프로젝트들
 
 
 
-
+***
 (2) Semi Project
 
 - **프로젝트 이름** : BYAT(Better-than-Your-Agile-Tool)
@@ -72,6 +72,7 @@ subtitle: 진행한 프로젝트들
   - **멤버 계정 관리** :  관리자가 멤버 계정 추가 , 수정, 삭제 할 수 있도록 하는  목적을 가진 기능
   - **캘린더** : 일반 멤버, 관리자 등 사용자가 일정을 조회, 생성, 수정, 삭제 할 수 있도록 하는 목적을 가진 기능
 
+
 - **구체적인 코드 설명[3가지]**
 
   1) **비밀번호 찾기 - 이메일 인증번호 발송**
@@ -91,6 +92,8 @@ subtitle: 진행한 프로젝트들
     <script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
     <script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
     <script src="https://gist.github.com/leesohyeon96/7856326263d5235e19a57f5c3b17a26c.js"></script>
+    
+  * * *
 
   2) **캘린더 - 일정 생성**
 
@@ -109,6 +112,8 @@ subtitle: 진행한 프로젝트들
     <script src="https://gist.github.com/leesohyeon96/a4692aa12788471a45315f018609dc29.js"></script>
     <script src="https://gist.github.com/leesohyeon96/69982cc198519ed802f0d917868b0d1f.js"></script>
     <script src="https://gist.github.com/leesohyeon96/05b1abc08e9a7c8a8f464c1c25d1ea84.js"></script>
+    
+   * * *
 
   3) **멤버 계정 관리 - 생성**
 
