@@ -41,7 +41,7 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
    <img src="../img/dailyLog.png">
 
-4) Mini, Semi, Fianl Project에서 본인이 맡은 일에 최선을 다하고 나아가 팀원들과 소통하도록 노력했습니다.  (Projects 메뉴바에서 자세히 확인하실 수 있습니다.)
+4) Mini, Semi, Fianl Project에서 본인이 맡은 일에 최선을 다하고 나아가 팀원들과 소통하도록 노력했습니다.  (Projects 메뉴에서 자세히 확인하실 수 있습니다.)
 
    
 
