@@ -47,22 +47,22 @@ subtitle: 진행한 프로젝트들
   - Sourcetree : git을 사용자가 쉽게 사용할 수 있도록 GUI환경을 제공해주기 때문에 사용하였습니다.
   - DBeaver
   - GitLab : 용량 무제한의 무료 레퍼지토리를 개인 및 공용으로 제공해주어 대량의 정보관리가 필요한 BYAT에 적합하다고 생각하여 사용하였습니다.
-  <img src="../img/semiTools.png">
+<img src="../img/semiTools.png">
 
 - **맡은 역할** : PM (회의록, 개발진행사항, 개발업무일지 등을 관리)
 
-  * 개발업무일지 : 일일업무일지로 본인이 구현한 부분, 내용을 구체적으로 작성하여 '본인 진척율 파악'하고 내용에 대한 '팀원 확인' 등을 통해 프로젝트의 전체적인 진척율 관리에 도움이 될 수 있도록 하였습니다.
-  * 개발진행사항 : 팀 전체의 진척율을 작성하고 하루하루 업데이트를 진행하여 가시적으로 전체적인 프로젝트 진행율을 파악하고 계획을 수정하는 데 도움이 되도록 하였습니다.
+* 개발업무일지 : 일일업무일지로 본인이 구현한 부분, 내용을 구체적으로 작성하여 '본인 진척율 파악'하고 내용에 대한 '팀원 확인' 등을 통해 프로젝트의 전체적인 진척율 관리에 도움이 될 수 있도록 하였습니다.
+* 개발진행사항 : 팀 전체의 진척율을 작성하고 하루하루 업데이트를 진행하여 가시적으로 전체적인 프로젝트 진행율을 파악하고 계획을 수정하는 데 도움이 되도록 하였습니다.
 
-    <img src="../img/SemiMeetingLog.png">
+<img src="../img/SemiMeetingLog.png">
 
-    <img src="../img/SemiProgress.png">
+<img src="../img/SemiProgress.png">
 
-    <img src="../img/semiIssueTracking.png">
+<img src="../img/semiIssueTracking.png">
 
 - **팀원 한마디** : '적극적이며 의사소통이 활발한 팀원'
 
-  <img src="../img/semiProjectTeamIntroduce.png">
+<img src="../img/semiProjectTeamIntroduce.png">
 
 - **프로그램 내 구현 기능** 
   - **로그인**  : 일반 멤버,관리자 등 사용자가 로그인 할 수 있도록 하는 목적을 가진 기능 
