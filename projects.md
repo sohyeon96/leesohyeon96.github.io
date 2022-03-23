@@ -75,62 +75,62 @@ subtitle: 진행한 프로젝트들
 
 - **구체적인 코드 설명[3가지]**
 
-  1) **비밀번호 찾기 - 이메일 인증번호 발송**
+1) **비밀번호 찾기 - 이메일 인증번호 발송**
 
-    **[전체적인 흐름]**
+**[전체적인 흐름]**
 
-    <img src="../img/semiProjectFindPassword1.png">
+<img src="../img/semiProjectFindPassword1.png">
 
-    **[코드 흐름]**
+**[코드 흐름]**
 
-    <img src="../img/semiProjectFindPassword2.png">
+<img src="../img/semiProjectFindPassword2.png">
 
-    <img src="../img/semiProjectFindPassword3.png">
+<img src="../img/semiProjectFindPassword3.png">
+
+**[ GitHub Gist ]**
+<script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
+<script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
+<script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
+<script src="https://gist.github.com/leesohyeon96/7856326263d5235e19a57f5c3b17a26c.js"></script>
     
-    **[ GitHub Gist ]**
-    <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/7856326263d5235e19a57f5c3b17a26c.js"></script>
+------------------
+
+2) **캘린더 - 일정 생성**
+
+**[전체적인 흐름]**
+
+<img src="../img/semiProjectCalendarRegist1.png">
+
+**[코드 흐름]**
+
+<img src="../img/semiProjectCalendarRegist2.png">
+<img src="../img/semiProjectCalendarRegist3.png">
+<img src="../img/semiProjectCalendarRegist4.png">
+
+**[ GitHub Gist ]**
+<script src="https://gist.github.com/leesohyeon96/30def6811a4c5e3d934e89cb566feec8.js"></script>
+<script src="https://gist.github.com/leesohyeon96/a4692aa12788471a45315f018609dc29.js"></script>
+<script src="https://gist.github.com/leesohyeon96/69982cc198519ed802f0d917868b0d1f.js"></script>
+<script src="https://gist.github.com/leesohyeon96/05b1abc08e9a7c8a8f464c1c25d1ea84.js"></script>
     
-  * * *
+------------------
 
-  2) **캘린더 - 일정 생성**
+3) **멤버 계정 관리 - 생성**
 
-    **[전체적인 흐름]**
+**[전체적인 흐름]**
 
-    <img src="../img/semiProjectCalendarRegist1.png">
+<img src="../img/semiProjectManagementRegist1.png">
 
-    **[코드 흐름]**
+**[코드 흐름]**
 
-    <img src="../img/semiProjectCalendarRegist2.png">
-    <img src="../img/semiProjectCalendarRegist3.png">
-    <img src="../img/semiProjectCalendarRegist4.png">
+<img src="../img/semiProjectManagementRegist2.png">
 
-     **[ GitHub Gist ]**
-    <script src="https://gist.github.com/leesohyeon96/30def6811a4c5e3d934e89cb566feec8.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/a4692aa12788471a45315f018609dc29.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/69982cc198519ed802f0d917868b0d1f.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/05b1abc08e9a7c8a8f464c1c25d1ea84.js"></script>
-    
-   * * *
+<img src="../img/semiProjectManagementRegist4.png">
 
-  3) **멤버 계정 관리 - 생성**
-
-    **[전체적인 흐름]**
-
-    <img src="../img/semiProjectManagementRegist1.png">
-
-    **[코드 흐름]**
-
-    <img src="../img/semiProjectManagementRegist2.png">
-
-    <img src="../img/semiProjectManagementRegist4.png">
-    
-    **[ GitHub Gist ]**
-    <script src="https://gist.github.com/leesohyeon96/66b37abedfccb7581f878ef08c05cdb7.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/31800c1f677e4684a15688d24c9fa619.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/d01d0c4f6875d14229625025f657a7e2.js"></script>
-    <script src="https://gist.github.com/leesohyeon96/d0b1cede398b946a24dd3e6b0cf1b32e.js"></script>
+**[ GitHub Gist ]**
+<script src="https://gist.github.com/leesohyeon96/66b37abedfccb7581f878ef08c05cdb7.js"></script>
+<script src="https://gist.github.com/leesohyeon96/31800c1f677e4684a15688d24c9fa619.js"></script>
+<script src="https://gist.github.com/leesohyeon96/d01d0c4f6875d14229625025f657a7e2.js"></script>
+<script src="https://gist.github.com/leesohyeon96/d0b1cede398b946a24dd3e6b0cf1b32e.js"></script>
 
 
