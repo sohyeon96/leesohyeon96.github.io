@@ -104,7 +104,11 @@ subtitle: 진행한 프로젝트들
     <img src="../img/semiProjectCalendarRegist3.png">
     <img src="../img/semiProjectCalendarRegist4.png">
 
-
+     [ GitHub Gist ]
+    <script src="https://gist.github.com/leesohyeon96/30def6811a4c5e3d934e89cb566feec8.js"></script>
+    <script src="https://gist.github.com/leesohyeon96/a4692aa12788471a45315f018609dc29.js"></script>
+    <script src="https://gist.github.com/leesohyeon96/69982cc198519ed802f0d917868b0d1f.js"></script>
+    <script src="https://gist.github.com/leesohyeon96/05b1abc08e9a7c8a8f464c1c25d1ea84.js"></script>
 
   - 멤버 계정 관리 - 생성
 
