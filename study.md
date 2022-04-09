@@ -4,10 +4,8 @@ title: About Study
 subtitle: 중요하거나, 모르는 개념들
 ---
   
-  
-[Google](http://google.com)
-    
-      
+title: 테스트페이지 이동
+link: /test/
         
 
 # * 프레임 워크(Framework)란?
