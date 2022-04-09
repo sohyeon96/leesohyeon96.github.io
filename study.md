@@ -38,9 +38,9 @@ subtitle: 중요하거나, 모르는 개념들
 
 # * Spring의 핵심 3대 요소
 
-1) 제어의 역전(IOC, Inversion Of Control) 
-2) 관점 지향 프로그래밍(AOP, Aspect Oriented Programming)
-3) 서비스 추상화(PSA, Portable Service Abstraction)
+1) 제어의 역전(IOC, Inversion Of Control)  
+2) 관점 지향 프로그래밍(AOP, Aspect Oriented Programming)  
+3) 서비스 추상화(PSA, Portable Service Abstraction)  
 
 ## (1) 제어의 역전
 
