@@ -7,7 +7,7 @@ subtitle: 진행한 프로젝트들
 # Projects
 
 - [Mini Project](#mini)
-- [Semi Project](#(2) Semi Project)
+- [Semi Project](#semi)
 - [Final Project](#final)
 
 
@@ -31,7 +31,8 @@ subtitle: 진행한 프로젝트들
 
 
 ***
-## (2) Semi Project
+## semi
+(2) Semi Project
 
 - **프로젝트 이름** : BYAT(Better-than-Your-Agile-Tool)
 
