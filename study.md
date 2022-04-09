@@ -5,7 +5,7 @@ subtitle: 중요하거나, 모르는 개념들
 ---
 ---
 테스트페
-link: /test/
+link: ../test
 ---
   
 
