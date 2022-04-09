@@ -11,6 +11,9 @@ subtitle: 중요하거나, 모르는 개념들
 - 개발하기 위해 지켜야 하는 '틀'이라고 보면 됨
 - BootStrap(부트스트랩) 은 '프레임 워크의 한 종류'
 
+
+
+
 # * 프레임 워크 vs 라이브러리 
 
 - 라이브러리 : 자주 사용되는 로직을 **'재사용하기 편리하도록'** 잘 정리한 **'일련의 코드들의 집합'**  => 클래스, 템플릿, 설정 데이터 등 
@@ -30,13 +33,14 @@ subtitle: 중요하거나, 모르는 개념들
 
 - 주된 차이 : **'제어의 역전(Inversion Of Control)'** 프레임워크에는 작업을 호출할 수 있는 '제어권'이 있다는 것! (사람이 할일을 프레임워크가 주도권을 가져가 대신 수행함!)
 
+
+
+
 # * Spring의 핵심 3대 요소
 
 1) 제어의 역전(IOC, Inversion Of Control) 
 2) 관점 지향 프로그래밍(AOP, Aspect Oriented Programming)
 3) 서비스 추상화(PSA, Portable Service Abstraction)
-
-
 
 ## (1) 제어의 역전
 
@@ -64,12 +68,18 @@ subtitle: 중요하거나, 모르는 개념들
   - 객체(Bean)의 생성을 책임지고 '의존성을 관리하는 컨테이너'
   -   
 
+
+
+
 # * 프레임워크의 종류
 
 - 자바 프레임워크  -> Struts / Spring / 전자정부 프레임워크
 - QRM 프레임워크(풀스텍자바프레임워크) -> myBatis(iBatis), Hibernate(JPA인가?알아보기)
 - 자바스크립트 프레임워크 -> AngularJS, React, Polymer, Ember
 - 프론트엔드 프레임워크 -> Bootstrap, Foundation, MDL
+
+
+
 
 # * 프레임워크의 장/단점
 
