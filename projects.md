@@ -33,7 +33,9 @@ subtitle: 진행한 프로젝트들
 ***
 ## semiProject
 
-- **프로젝트 이름** : BYAT(Better-than-Your-Agile-Tool)
+- **프로젝트 이름** : BYAT(Better-than-Your-Agile-Tool)  
+
+- **프로젝트 진행기간** : 
 
 - **프로젝트 소개** : IT중소기업을 대상으로 프로세스를 관리해주는 PMS 서비스 프로그램
 
