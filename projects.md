@@ -166,15 +166,23 @@ subtitle: 진행한 프로젝트들
   - DBeaver: 편의성을 고려한 직관적인 인터페이스를 가지고 Semi Project에서 사용한 Oracle Developer 보다 뛰어난 쿼리 실행 속도를 가지고 있기 때문에 사용하였습니다.
   - GitLab : 용량 무제한의 무료 레퍼지토리를 개인 및 공용으로 제공해주어 대량의 정보관리가 필요한 JaeGoJaeGo에 적합하다고 생각하여 사용하였습니다.
 <img src="../img/finalTools.png">
-<img src="../img/finalTools2.png">
+<img src="../img/finalTools2.png">  
+
 
 - **맡은 역할** : 형상관리자 (깃랩, 소스트리 commit & push, merge, commitMessage 관리)
 <img src="../img/finalRole1.png">
-<img src="../img/finalRole2.png">
+<img src="../img/finalRole2.png">  
+
 
 - **팀원 한마디** : '적극적이며 의사소통이 활발한 팀원'
 
-<img src="../img/finalProjectTeamIntroduce.png">
+<img src="../img/finalProjectTeamIntroduce.png">  
+
+
+- **전반적인 설계 과정**
+<img src="../img/finalModeling1.png">
+<img src="../img/finalModeling2.png">  
+
 
 - **프로그램 내 구현 기능** 
   - **메뉴관리**  : 일반 멤버,관리자 등 사용자가 로그인 할 수 있도록 하는 목적을 가진 기능 
