@@ -187,3 +187,45 @@ subtitle: 진행한 프로젝트들
     - **본사 이슈출고 백로그 조회** : 일반 멤버, 관리자 등 사용자가 일정을 조회, 생성, 수정, 삭제 할 수 있도록 하는 목적을 가진 기능
     - **각 물품 구매량 증/감소율 그래프 조회** : 일반 멤버, 관리자 등 사용자가 일정을 조회, 생성, 수정, 삭제 할 수 있도록 하는 목적을 가진 기능
     - **물품당 이슈발생빈도 그래프 조회** : 뭐시기 저시기
+
+- **구체적인 코드 설명[2가지]**
+
+1) **메뉴관리 - 메뉴 수정**
+
+**[전체적인 흐름]**
+
+<img src="../img/semiProjectFindPassword1.png">
+
+**[코드 흐름]**
+
+<img src="../img/semiProjectFindPassword2.png">
+
+<img src="../img/semiProjectFindPassword3.png">
+
+**[ GitHub Gist ]**
+<script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
+<script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
+<script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
+<script src="https://gist.github.com/leesohyeon96/7856326263d5235e19a57f5c3b17a26c.js"></script>
+    
+------------------
+
+2) **백로그관리 - 물품당 이슈발생빈도 그래프 조회** (or바꾸던지)
+
+**[전체적인 흐름]**
+
+<img src="../img/semiProjectFindPassword1.png">
+
+**[코드 흐름]**
+
+<img src="../img/semiProjectFindPassword2.png">
+
+<img src="../img/semiProjectFindPassword3.png">
+
+**[ GitHub Gist ]**
+<script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
+<script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
+<script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
+<script src="https://gist.github.com/leesohyeon96/7856326263d5235e19a57f5c3b17a26c.js"></script>
+    
+------------------
