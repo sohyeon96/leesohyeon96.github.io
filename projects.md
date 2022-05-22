@@ -7,11 +7,13 @@ subtitle: 진행한 프로젝트들
 # Projects
 
 - [Mini Project](#mini)
-- [Semi Project](#semiProject)
+- [Semi Project](#semi)
 - [Final Project](#final)
 
-
-
+***
+## mini
+- **프로젝트 이름**: 마왕 김진호를 JAVA
+- 
 
 
 
@@ -31,7 +33,7 @@ subtitle: 진행한 프로젝트들
 
 
 ***
-## semiProject
+## semi
 
 - **프로젝트 이름** : BYAT(Better-than-Your-Agile-Tool)  
 
