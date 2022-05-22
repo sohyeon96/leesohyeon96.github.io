@@ -174,7 +174,7 @@ subtitle: 진행한 프로젝트들
 <img src="../img/finalRole2.png">  
 
 
-- **팀원 한마디** : '적극적이며 의사소통이 활발한 팀원'
+- **팀원 한마디** : '적극적이며 행동력 있는 팀원'
 
 <img src="../img/finalProjectTeamIntroduce.png">  
 
@@ -206,7 +206,8 @@ subtitle: 진행한 프로젝트들
 
 **[전체적인 흐름]**
 
-<img src="../img/semiProjectFindPassword1.png">
+<img src="../img/finalProjectMenuModify1.png">
+<img src="../img/finalProjectMenuModify2.png">
 
 **[코드 흐름]**
 
