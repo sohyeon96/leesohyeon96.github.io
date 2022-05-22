@@ -220,6 +220,10 @@ subtitle: 진행한 프로젝트들
 
 <img src="../img/finalProjectMenuModify5.png">
 
+<img src="../img/finalProjectMenuModify6.png">
+
+<img src="../img/finalProjectMenuModify7.png">
+
 **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
 <script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
