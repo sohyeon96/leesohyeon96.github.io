@@ -240,14 +240,20 @@ subtitle: 진행한 프로젝트들
 
   **[코드 흐름]**
 
-<img src="../img/semiProjectFindPassword2.png">
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph3.png">
 
-<img src="../img/semiProjectFindPassword3.png">
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph4.png">
+
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph5.png">
+
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph6.png">
+
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph7.png">
+
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph8.png">
 
   **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
-<script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
-<script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
-<script src="https://gist.github.com/leesohyeon96/7856326263d5235e19a57f5c3b17a26c.js"></script>
+
     
 ------------------
