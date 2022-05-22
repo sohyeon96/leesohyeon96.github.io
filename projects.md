@@ -33,7 +33,7 @@ subtitle: 진행한 프로젝트들
 
 
 ***
-[되돌아가기](#projects)
+[목록으로](#projects)
 
 ## semi
 
@@ -141,6 +141,12 @@ subtitle: 진행한 프로젝트들
 
 
 
+- **프로젝트 후기**
+  : 
+  
+
+[목록으로](#projects)
+
 
 
 
@@ -148,7 +154,7 @@ subtitle: 진행한 프로젝트들
 
 
 ***
-[되돌아가기](#projects)  
+[목록으로](#projects)  
 
 ## final
 
@@ -260,4 +266,9 @@ subtitle: 진행한 프로젝트들
   <script src="https://gist.github.com/leesohyeon96/1212307e8a99c42680b424f7c5582299.js"></script>
       
       
+
+- **프로젝트 후기**
+  : 
+  
+[목록으로](#projects)   
 ------------------
