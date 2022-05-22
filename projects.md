@@ -263,10 +263,8 @@ subtitle: 진행한 프로젝트들
   **[ GitHub Gist ]**
   <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
   <script src="https://gist.github.com/leesohyeon96/aa74e5ab1c549022a6d29399b9f6ec64.js"></script>
-  <script src="https://gist.github.com/leesohyeon96/1212307e8a99c42680b424f7c5582299.js"></script>
-      
-      
-
+  <script src="https://gist.github.com/leesohyeon96/1212307e8a99c42680b424f7c5582299.js"></script>  
+  
 - **프로젝트 후기**
   : 저희는 SCM이라는 낯선 개념을 공부했음에도 불구하고 논리 모델링에서 엔티티 구성에 어려움을 겪고 발주와 수주, 입고와 입하 등의 용어 일치의 혼선이 있었습니다. 
     또한 최초로 형상관리자를 맡았기 때문에 commit&push 와 merge 시 에러해결에 어려움을 겪었습니다.
