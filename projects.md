@@ -167,23 +167,23 @@ subtitle: 진행한 프로젝트들
   - Sourcetree : git을 사용자가 쉽게 사용할 수 있도록 GUI환경을 제공해주며 깃플로우 방식을 사용하기에 용이하기 때문에 이용하였습니다.
   - DBeaver: 편의성을 고려한 직관적인 인터페이스를 가지고 Semi Project에서 사용한 Oracle Developer 보다 뛰어난 쿼리 실행 속도를 가지고 있기 때문에 사용하였습니다.
   - GitLab : 용량 무제한의 무료 레퍼지토리를 개인 및 공용으로 제공해주어 대량의 정보관리가 필요한 JaeGoJaeGo에 적합하다고 생각하여 사용하였습니다.
-<img src="../img/finalTools.png">
-<img src="../img/finalTools2.png">  
+  <img src="../img/finalTools.png">
+  <img src="../img/finalTools2.png">  
 
 
 - **맡은 역할** : 형상관리자 (깃랩, 소스트리 commit & push, merge, commitMessage 관리)
-<img src="../img/finalRole1.png">
-<img src="../img/finalRole2.png">  
+  <img src="../img/finalRole1.png">
+  <img src="../img/finalRole2.png">  
 
 
 - **팀원 한마디** : '적극적이며 행동력 있는 팀원'
 
-<img src="../img/finalProjectTeamIntroduce.png">  
+  <img src="../img/finalProjectTeamIntroduce.png">  
 
 
 - **전반적인 설계 과정**
-<img src="../img/finalModeling1.png">
-<img src="../img/finalModeling2.png">  
+  <img src="../img/finalModeling1.png">
+  <img src="../img/finalModeling2.png">  
 
 
 - **프로그램 내 구현 기능** 
@@ -209,16 +209,16 @@ subtitle: 진행한 프로젝트들
 
   **[전체적인 흐름]**
 
-<img src="../img/finalProjectMenuModify1.png">
-<img src="../img/finalProjectMenuModify2.png">
+  <img src="../img/finalProjectMenuModify1.png">
+  <img src="../img/finalProjectMenuModify2.png">
 
   **[코드 흐름]**
 
-<img src="../img/finalProjectMenuModify3.png">
+  <img src="../img/finalProjectMenuModify3.png">
 
-<img src="../img/finalProjectMenuModify4.png">
+  <img src="../img/finalProjectMenuModify4.png">
 
-<img src="../img/finalProjectMenuModify5.png">
+  <img src="../img/finalProjectMenuModify5.png">
 
   <img src="../img/finalProjectMenuModify6.png">
 
@@ -233,25 +233,25 @@ subtitle: 진행한 프로젝트들
 
   **[전체적인 흐름]**
 
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph.png">
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph2.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph2.png">
 
   **[코드 흐름]**
 
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph3.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph3.png">
 
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph4.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph4.png">
 
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph5.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph5.png">
 
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph6.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph6.png">
 
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph7.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph7.png">
 
-<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph8.png">
+  <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph8.png">
 
   **[ GitHub Gist ]**
-<script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
+  <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
 
     
 ------------------
