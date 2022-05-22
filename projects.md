@@ -197,11 +197,12 @@ subtitle: 진행한 프로젝트들
     - **본사 입고물품 백로그 조회** 
     - **본사 이슈출고 백로그 조회** 
     - **각 물품 구매량 증/감소율 그래프 조회** 
-    - **물품당 이슈발생빈도 그래프 조회**   
-
+    - **물품당 이슈발생빈도 그래프 조회**
+   
+     
+     
   
   
-
 - **구체적인 코드 설명[2가지]**
 
 1) **메뉴관리 - 메뉴 수정**
@@ -213,9 +214,11 @@ subtitle: 진행한 프로젝트들
 
 **[코드 흐름]**
 
-<img src="../img/semiProjectFindPassword2.png">
+<img src="../img/finalProjectMenuModify3.png">
 
-<img src="../img/semiProjectFindPassword3.png">
+<img src="../img/finalProjectMenuModify4.png">
+
+<img src="../img/finalProjectMenuModify5.png">
 
 **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
