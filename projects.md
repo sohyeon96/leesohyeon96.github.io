@@ -4,7 +4,7 @@ title: Projects
 subtitle: 진행한 프로젝트들
 ---
 
-## Projects
+## projects
 
 - [Mini Project](#mini)
 - [Semi Project](#semi)
@@ -33,7 +33,7 @@ subtitle: 진행한 프로젝트들
 
 
 ***
-[되돌아가기](#Projects)
+[되돌아가기](#projects)
 
 ## semi
 
@@ -148,7 +148,7 @@ subtitle: 진행한 프로젝트들
 
 
 ***
-[되돌아가기](#Projects)  
+[되돌아가기](#projects)  
 
 ## final
 
