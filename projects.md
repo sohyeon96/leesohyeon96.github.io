@@ -252,6 +252,8 @@ subtitle: 진행한 프로젝트들
 
   **[ GitHub Gist ]**
   <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
-
-    
+  <script src="https://gist.github.com/leesohyeon96/aa74e5ab1c549022a6d29399b9f6ec64.js"></script>
+  <script src="https://gist.github.com/leesohyeon96/1212307e8a99c42680b424f7c5582299.js"></script>
+      
+      
 ------------------
