@@ -79,19 +79,19 @@ subtitle: 진행한 프로젝트들
 
 - **구체적인 코드 설명[3가지]**
 
-1) **비밀번호 찾기 - 이메일 인증번호 발송**
+  1) **비밀번호 찾기 - 이메일 인증번호 발송**
 
-**[전체적인 흐름]**
+  **[전체적인 흐름]**
 
 <img src="../img/semiProjectFindPassword1.png">
 
-**[코드 흐름]**
+  **[코드 흐름]**
 
 <img src="../img/semiProjectFindPassword2.png">
 
 <img src="../img/semiProjectFindPassword3.png">
 
-**[ GitHub Gist ]**
+  **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
 <script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
 <script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
@@ -99,19 +99,19 @@ subtitle: 진행한 프로젝트들
     
 ------------------
 
-2) **캘린더 - 일정 생성**
+  2) **캘린더 - 일정 생성**
 
-**[전체적인 흐름]**
+  **[전체적인 흐름]**
 
 <img src="../img/semiProjectCalendarRegist1.png">
 
-**[코드 흐름]**
+  **[코드 흐름]**
 
 <img src="../img/semiProjectCalendarRegist2.png">
 <img src="../img/semiProjectCalendarRegist3.png">
 <img src="../img/semiProjectCalendarRegist4.png">
 
-**[ GitHub Gist ]**
+  **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/30def6811a4c5e3d934e89cb566feec8.js"></script>
 <script src="https://gist.github.com/leesohyeon96/a4692aa12788471a45315f018609dc29.js"></script>
 <script src="https://gist.github.com/leesohyeon96/69982cc198519ed802f0d917868b0d1f.js"></script>
@@ -119,19 +119,19 @@ subtitle: 진행한 프로젝트들
     
 ------------------
 
-3) **멤버 계정 관리 - 생성**
+  3) **멤버 계정 관리 - 생성**
 
-**[전체적인 흐름]**
+  **[전체적인 흐름]**
 
 <img src="../img/semiProjectManagementRegist1.png">
 
-**[코드 흐름]**
+  **[코드 흐름]**
 
 <img src="../img/semiProjectManagementRegist2.png">
 
 <img src="../img/semiProjectManagementRegist4.png">
 
-**[ GitHub Gist ]**
+  **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/66b37abedfccb7581f878ef08c05cdb7.js"></script>
 <script src="https://gist.github.com/leesohyeon96/31800c1f677e4684a15688d24c9fa619.js"></script>
 <script src="https://gist.github.com/leesohyeon96/d01d0c4f6875d14229625025f657a7e2.js"></script>
@@ -205,14 +205,14 @@ subtitle: 진행한 프로젝트들
   
 - **구체적인 코드 설명[2가지]**
 
-1) **메뉴관리 - 메뉴 수정**
+  1) **메뉴관리 - 메뉴 수정**
 
-**[전체적인 흐름]**
+  **[전체적인 흐름]**
 
 <img src="../img/finalProjectMenuModify1.png">
 <img src="../img/finalProjectMenuModify2.png">
 
-**[코드 흐름]**
+  **[코드 흐름]**
 
 <img src="../img/finalProjectMenuModify3.png">
 
@@ -224,26 +224,27 @@ subtitle: 진행한 프로젝트들
 
 <img src="../img/finalProjectMenuModify7.png">
 
-**[ GitHub Gist ]**
+  **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/9a17a79f2b4be540b148b280927c8c6e.js"></script>
 <script src="https://gist.github.com/leesohyeon96/8fba37588e778194fe93ca2f312dfec9.js"></script>
 <script src="https://gist.github.com/leesohyeon96/c44e3a32a51079eeddb7f513ce8521e7.js"></script>
     
 ------------------
 
-2) **백로그관리 - 물품당 이슈발생빈도 그래프 조회** (or바꾸던지)
+  2) **백로그관리 - 물품당 이슈발생빈도 그래프 조회**
 
-**[전체적인 흐름]**
+  **[전체적인 흐름]**
 
-<img src="../img/semiProjectFindPassword1.png">
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph.png">
+<img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph2.png">
 
-**[코드 흐름]**
+  **[코드 흐름]**
 
 <img src="../img/semiProjectFindPassword2.png">
 
 <img src="../img/semiProjectFindPassword3.png">
 
-**[ GitHub Gist ]**
+  **[ GitHub Gist ]**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
 <script src="https://gist.github.com/leesohyeon96/fbbd8defccd8ff27710502454972ea74.js"></script>
 <script src="https://gist.github.com/leesohyeon96/d2043d067fd4e16eb4960edcc86cb3f3.js"></script>
