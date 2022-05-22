@@ -46,9 +46,10 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 5) 매일 10시부터 새벽3~4시까지 스터디를 진행하며 프로젝트와 공부를 병행하였습니다.(증거물 필요!)  
   
   
-- **수료증**
-   <img src="../img/certificate.png">
-   <img src="../img/certificate2.png">
+- **수료증**    
+
+   <img src="../img/certificate.jpg">
+   <img src="../img/certificate2.jpg">
 
  
  
