@@ -7,7 +7,7 @@ title: Semi Project - 비밀번호 찾기[이메일 인증번호 발송]
 
 **Semi Project - 비밀번호 찾기[이메일 인증번호 발송]**  
 
-**HTML**
+**JSP**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>  
     
 **Controller**
