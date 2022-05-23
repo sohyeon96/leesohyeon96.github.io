@@ -111,7 +111,7 @@ subtitle: 진행한 프로젝트들
 
 <img src="../img/semiProjectFindPassword3.png">
 
-# semiprojectfirstgist
+# 비밀번호찾기githutgist
 
   **[ GitHub Gist ]**  
 
