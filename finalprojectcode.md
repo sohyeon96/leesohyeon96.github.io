@@ -27,8 +27,16 @@ title: Final Project
 
   <img src="../img/finalProjectMenuModify7.png">
 
-  **[ GitHub Gist ]**
-  <script src="https://gist.github.com/leesohyeon96/f6d4f91ed83d37f9c90617a14fd545d7.js"></script>
+  **[ GitHub Gist ]**  
+  
+  **HTML**
+  <script src="https://gist.github.com/leesohyeon96/f6d4f91ed83d37f9c90617a14fd545d7.js"></script>  
+  
+  **Controller**  
+  <script src="https://gist.github.com/leesohyeon96/8fba37588e778194fe93ca2f312dfec9.js"></script>  
+  
+  **Service**  
+  <script src="https://gist.github.com/leesohyeon96/c44e3a32a51079eeddb7f513ce8521e7.js"></script>
     
 ------------------
 
