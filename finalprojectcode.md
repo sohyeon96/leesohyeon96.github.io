@@ -27,16 +27,13 @@ title: Final Project
 
   <img src="../img/finalProjectMenuModify7.png">
 
+</br>
+  
+### first
+
   **[ GitHub Gist ]**  
-  
-  **HTML**
-  <script src="https://gist.github.com/leesohyeon96/9a17a79f2b4be540b148b280927c8c6e.js"></script>
-  
-  **Controller**  
-  <script src="https://gist.github.com/leesohyeon96/8fba37588e778194fe93ca2f312dfec9.js"></script>  
-  
-  **Service**  
-  <script src="https://gist.github.com/leesohyeon96/c44e3a32a51079eeddb7f513ce8521e7.js"></script>
+
+  [메뉴관리 - 메뉴수정 Github Gist 보기](finalgithubgistfirstpage.md)
     
 ------------------
 
@@ -70,6 +67,15 @@ title: Final Project
   **Service**
   <script src="https://gist.github.com/leesohyeon96/1212307e8a99c42680b424f7c5582299.js"></script>  
 
+
+  
+### second  
+
+
+  **[ GitHub Gist ]**  
+    
+   [백로그관리 - 물품당 이슈발생빈도 그래프 조회 Github Gist 보기](finalgithubgistsecondpage.md)  
+   
 
 
 ***  
