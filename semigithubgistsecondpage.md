@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Semi Project - 캘린더[일정 생성]
+title: 캘린더[일정 생성]
 ---
 
 [되돌아가기](https://leesohyeon96.github.io/projects/#semiprojectsecondgist)
