@@ -36,6 +36,7 @@ subtitle: 진행한 프로젝트들
   - 단계선택창 조회 및 입력  
   
 <br/>
+
 - **구체적인 코드 설명[Gist로 대체]**
 ##### miniproject  
   [Mini Project 코드설명](miniprojectcode.md)  
