@@ -33,12 +33,11 @@ subtitle: 진행한 프로젝트들
   - 유저 로그아웃
   - 스토리화면창 조회
   - 단계선택창 조회 및 입력
-  
-    
+
 - **구체적인 코드 설명[Gist로 대체]**
 ##### miniproject  
   [Mini Project 코드설명](miniprojectcode.md)  
-
+  
 
 
 ***
@@ -169,7 +168,7 @@ subtitle: 진행한 프로젝트들
   
 - **구체적인 코드 설명[2가지]**
 ##### finalproject  
-  [Final Project 코드설명](finalprojectcode.md)    
+  [Final Project 코드설명](finalproject.md)    
   
   
   
