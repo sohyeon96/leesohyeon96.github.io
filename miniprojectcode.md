@@ -5,7 +5,7 @@ title: Mini Project
 
 [되돌아가기](https://leesohyeon96.github.io/projects/#miniproject)
 
-## Semi Project 코드 설명[Gist로 대체]  
+## Mini Project 코드 설명[Gist로 대체]  
 
 ***
 
