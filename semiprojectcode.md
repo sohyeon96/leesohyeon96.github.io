@@ -5,11 +5,11 @@ title: Semi Project
 
 [되돌아가기](https://leesohyeon96.github.io/projects/#semiproject)
 
-## Semi Project 코드 설명[3가지]  
+# Semi Project 코드 설명[3가지]  
 
 ***  
 
-# 1) **비밀번호 찾기 - 이메일 인증번호 발송**
+## 1) **비밀번호 찾기 - 이메일 인증번호 발송**
 
   **[전체적인 흐름]**
 
@@ -21,7 +21,7 @@ title: Semi Project
 
   <img src="../img/semiProjectFindPassword3.png">
 
-## first
+### first
 
   **[ GitHub Gist ]**  
 
@@ -30,7 +30,7 @@ title: Semi Project
     
 ***
 
-#  2) **캘린더 - 일정 생성**
+##  2) **캘린더 - 일정 생성**
 
   **[전체적인 흐름]**
 
@@ -43,7 +43,7 @@ title: Semi Project
   <img src="../img/semiProjectCalendarRegist4.png">
   
   
-## second  
+### second  
 
 
   **[ GitHub Gist ]**  
@@ -53,7 +53,7 @@ title: Semi Project
     
 ***
 
-#  3) **멤버 계정 관리 - 생성**
+##  3) **멤버 계정 관리 - 생성**
 
   **[전체적인 흐름]**
 
@@ -65,7 +65,7 @@ title: Semi Project
 
 <img src="../img/semiProjectManagementRegist4.png">
 
-## third
+### third
 
   **[ GitHub Gist ]**  
 
