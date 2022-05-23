@@ -140,10 +140,6 @@ subtitle: 진행한 프로젝트들
     
    [캘린더 - 일정 생성 Github Gist 보기](semigithubgistsecondpage.md)  
    
-  <script src="https://gist.github.com/leesohyeon96/30def6811a4c5e3d934e89cb566feec8.js"></script>
-  <script src="https://gist.github.com/leesohyeon96/a4692aa12788471a45315f018609dc29.js"></script>
-  <script src="https://gist.github.com/leesohyeon96/69982cc198519ed802f0d917868b0d1f.js"></script>
-  <script src="https://gist.github.com/leesohyeon96/05b1abc08e9a7c8a8f464c1c25d1ea84.js"></script>
     
 ------------------
 
