@@ -54,8 +54,11 @@ title: Final Project
   <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph8.png">
 
   **[ GitHub Gist ]**
-  <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
+  **HTML**
+  <script src="https://gist.github.com/leesohyeon96/f6d4f91ed83d37f9c90617a14fd545d7.js"></script>
+  **Controller**
   <script src="https://gist.github.com/leesohyeon96/aa74e5ab1c549022a6d29399b9f6ec64.js"></script>
+  **Service**
   <script src="https://gist.github.com/leesohyeon96/1212307e8a99c42680b424f7c5582299.js"></script>  
 
 
