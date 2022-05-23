@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Semi Project - 비밀번호 찾기[이메일 인증번호 발송]
+title: 비밀번호 찾기[이메일 인증번호 발송]
 ---
 
 [되돌아가기](https://leesohyeon96.github.io/projects/#semiprojectfirstgist)
