@@ -98,10 +98,8 @@ subtitle: 진행한 프로젝트들
 
 
 - **구체적인 코드 설명[3가지]**
-  
-## semiproject  
-[Semi Project 코드설명](semiprojectcode.md)
-
+##### semiproject  
+[Semi Project 코드설명](semiprojectcode.md)  
 
 
 - **프로젝트 후기**
