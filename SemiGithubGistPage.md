@@ -3,7 +3,7 @@ layout: page
 title: SemiGithubGistPage
 ---
 
-[실험용 되돌아가기](https://leesohyeon96.github.io/projects/#gist1)
+[되돌아가기](https://leesohyeon96.github.io/projects/#gist1)
 
 **Semi Project - 비밀번호 찾기[이메일 인증번호 발송]**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
@@ -13,4 +13,4 @@ title: SemiGithubGistPage
 
 
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#semi)
+[되돌아가기](https://leesohyeon96.github.io/projects/#gist1)
