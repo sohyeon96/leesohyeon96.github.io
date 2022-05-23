@@ -3,7 +3,7 @@ layout: page
 title: SemiGithubGistPage
 ---
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#비밀번호찾기githutgist)
+[되돌아가기](https://leesohyeon96.github.io/projects/#semifirstgithubgist)
 
 **Semi Project - 비밀번호 찾기[이메일 인증번호 발송]**  
 
