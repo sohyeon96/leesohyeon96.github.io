@@ -159,9 +159,9 @@ subtitle: 진행한 프로젝트들
 
   **[ GitHub Gist ]**  
 
-  [멤버 계정 관리 - 생성](semigithubgistthirdpage.md)
+  [멤버 계정 관리 - 생성 Github Gist 보기](semigithubgistthirdpage.md)
 
-
+------------------
 
 
 - **프로젝트 후기**
