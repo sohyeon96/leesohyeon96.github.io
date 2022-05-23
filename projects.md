@@ -22,7 +22,8 @@ subtitle: 진행한 프로젝트들
   - Java
   - Oracle 
   - Eclipse 
-  <img src="../img/miniTools.png">
+  <img src="../img/miniTools.png">  
+  
 - **맡은 역할** : 팀장, 테스터
   <img src="../img/semiWBS.png">
   
@@ -32,8 +33,9 @@ subtitle: 진행한 프로젝트들
   - 모험떠나기(메인페이지)
   - 유저 로그아웃
   - 스토리화면창 조회
-  - 단계선택창 조회 및 입력
+  - 단계선택창 조회 및 입력  
 
+  
 - **구체적인 코드 설명[Gist로 대체]**
 ##### miniproject  
   [Mini Project 코드설명](miniprojectcode.md)  
