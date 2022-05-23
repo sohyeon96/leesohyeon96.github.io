@@ -53,7 +53,8 @@ title: Final Project
 
   <img src="../img/finalProjectOutWarehouseIssueBacklogBarGraph8.png">
 
-  **[ GitHub Gist ]**
+  **[ GitHub Gist ]**  
+  
   **HTML**
   <script src="https://gist.github.com/leesohyeon96/f6d4f91ed83d37f9c90617a14fd545d7.js"></script>
   **Controller**
