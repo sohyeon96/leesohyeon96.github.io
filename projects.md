@@ -12,24 +12,42 @@ subtitle: 진행한 프로젝트들
 
 ***
 ## mini
-- **프로젝트 이름**: 마왕 김진호를 JAVA
-- 
+- **프로젝트 이름** : 마왕 김진호를 JAVA
+
+- **프로젝트 진행기간** : 2021.11.25 ~ 2021.12.21
+
+- **프로젝트 소개** : JAVA퀴즈 RPG게임
+
+- **개발 환경** 
+  - Java
+  - Oracle 
+  - Eclipse 
+  <img src="../img/miniTools.png">
+- **맡은 역할** : 팀장, 테스터
+  <img src="../img/miniWBS.png">
+  
+- **프로그램 내 구현기능**
+  - 게임설명창 조회
+  - 캐릭터 상태창 조회
+  - 모험떠나기(메인페이지)
+  - 유저 로그아웃
+  - 스토리화면창 조회
+  - 단계선택창 조회 및 입력
+
+- **구체적인 코드 설명[Gist로 대체]**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  **[ GitHub Gist ]**  
+  
+  1. 모험떠나기(메인페이지)
+  <script src="https://gist.github.com/leesohyeon96/8255cda6108bbb4a8a088bf31539a8be.js"></script>  
+  
+  2. 단계선택창 조회 및 입력 
+  <script src="https://gist.github.com/leesohyeon96/7a27793b51feabca57b03a51a7e1b80f.js"></script>  
+  
+  3. 스토리화면창 조회
+  <script src="https://gist.github.com/leesohyeon96/26d6532f3eecf861de3a03cd258137e7.js"></script>
+  
 
 
 ***
@@ -39,7 +57,7 @@ subtitle: 진행한 프로젝트들
 
 - **프로젝트 이름** : BYAT(Better-than-Your-Agile-Tool)  
 
-- **프로젝트 진행기간** : 
+- **프로젝트 진행기간** : 2021.12.22 ~ 2022.03.14
 
 - **프로젝트 소개** : IT중소기업을 대상으로 프로세스를 관리해주는 PMS 서비스 프로그램
 
