@@ -24,7 +24,7 @@ subtitle: 진행한 프로젝트들
   - Eclipse 
   <img src="../img/miniTools.png">
 - **맡은 역할** : 팀장, 테스터
-  <img src="../img/miniWBS.png">
+  <img src="../img/semiWBS.png">
   
 - **프로그램 내 구현기능**
   - 게임설명창 조회
