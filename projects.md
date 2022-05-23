@@ -155,11 +155,12 @@ subtitle: 진행한 프로젝트들
 
 <img src="../img/semiProjectManagementRegist4.png">
 
-  **[ GitHub Gist ]**
-<script src="https://gist.github.com/leesohyeon96/66b37abedfccb7581f878ef08c05cdb7.js"></script>
-<script src="https://gist.github.com/leesohyeon96/31800c1f677e4684a15688d24c9fa619.js"></script>
-<script src="https://gist.github.com/leesohyeon96/d01d0c4f6875d14229625025f657a7e2.js"></script>
-<script src="https://gist.github.com/leesohyeon96/d0b1cede398b946a24dd3e6b0cf1b32e.js"></script>
+## semiprojectthirdgist
+
+  **[ GitHub Gist ]**  
+
+  [멤버 계정 관리 - 생성](semigithubgistthirdpage.md)
+
 
 
 
