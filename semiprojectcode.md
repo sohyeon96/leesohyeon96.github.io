@@ -70,7 +70,7 @@ title: Semi Project
 
   [멤버 계정 관리 - 생성 Github Gist 보기](semigithubgistthirdpage.md)  
   
+
+***  
+
 [되돌아가기](https://leesohyeon96.github.io/projects/#semiproject)
-
-
-***
