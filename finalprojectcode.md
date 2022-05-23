@@ -5,10 +5,10 @@ title: Final Project
 
 [되돌아가기](https://leesohyeon96.github.io/projects/#finalproject)
 
-## Final Project 코드 설명[2가지]  
+# Final Project 코드 설명[2가지]  
 
 ***
-  1) **메뉴관리 - 메뉴 수정**
+##  1) **메뉴관리 - 메뉴 수정**
 
   **[전체적인 흐름]**
 
@@ -32,7 +32,7 @@ title: Final Project
     
 ------------------
 
-  2) **백로그관리 - 물품당 이슈발생빈도 그래프 조회**
+##  2) **백로그관리 - 물품당 이슈발생빈도 그래프 조회**
 
   **[전체적인 흐름]**
 
