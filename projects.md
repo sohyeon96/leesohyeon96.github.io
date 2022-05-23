@@ -166,7 +166,11 @@ subtitle: 진행한 프로젝트들
   => **논리모델링 2.0.0ver 입니다.**
  <br/>
   <img src="../img/finalairbnbphoto.jpg">
-  => **발표전날 밤을 새며 발표를 준비하는 모습입니다.**
+  <img src="../img/finalairbnbphoto3.jpg">
+  => **밤을 새며 발표를 준비하는 모습입니다.**
+ <br/>
+  <img src="../img/finalairbnbphoto2.jpg">
+  => **논리모델링 설계 회의 장면입니다.**
 
 <br/>
 
