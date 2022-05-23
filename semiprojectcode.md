@@ -5,7 +5,7 @@ title: Semi Project
 
 [되돌아가기](https://leesohyeon96.github.io/projects/#semiproject)
 
-**Semi Project 코드 설명[3가지]**  
+## Semi Project 코드 설명[3가지]  
 
 ***
  1) **비밀번호 찾기 - 이메일 인증번호 발송**
