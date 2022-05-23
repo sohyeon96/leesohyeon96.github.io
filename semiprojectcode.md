@@ -20,7 +20,7 @@ title: Semi Project
 
   <img src="../img/semiProjectFindPassword3.png">
 
-## semiprojectfirstgist
+## first
 
   **[ GitHub Gist ]**  
 
@@ -42,7 +42,7 @@ title: Semi Project
   <img src="../img/semiProjectCalendarRegist4.png">
   
   
-## semiprojectsecondgist  
+## second  
 
 
   **[ GitHub Gist ]**  
@@ -64,7 +64,7 @@ title: Semi Project
 
 <img src="../img/semiProjectManagementRegist4.png">
 
-## semiprojectthirdgist
+## third
 
   **[ GitHub Gist ]**  
 
