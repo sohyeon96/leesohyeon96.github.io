@@ -3,7 +3,7 @@ layout: page
 title: SemiGithubGistPage
 ---
 
-[실험용 되돌아가기](https://leesohyeon96.github.io/projects/#gist1)
+[실험용 되돌아가기](#gist1)
 
 **Semi Project Github Gist**
 <script src="https://gist.github.com/leesohyeon96/e146794f17d53f544a2738c1259824de.js"></script>
