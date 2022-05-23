@@ -111,13 +111,11 @@ subtitle: 진행한 프로젝트들
 
 <img src="../img/semiProjectFindPassword3.png">
 
-## semiprojectfirstgist
-
-## <test>
+# semiprojectfirstgist
 
   **[ GitHub Gist ]**  
 
-  [GitHubGist보기](SemiGithubGistPage.md)
+  [비밀번호 찾기 - 이메일 인증번호 발송 Github Gist 보기](SemiGithubGistPage.md)
 
     
 ------------------
