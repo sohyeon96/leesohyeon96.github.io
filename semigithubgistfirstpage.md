@@ -3,7 +3,7 @@ layout: page
 title: 비밀번호 찾기[이메일 인증번호 발송]
 ---
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#semiprojectfirstgist)
+[되돌아가기](https://leesohyeon96.github.io/semiprojectcode/#first)
 
 **Semi Project - 비밀번호 찾기[이메일 인증번호 발송]**  
 
@@ -20,5 +20,5 @@ title: 비밀번호 찾기[이메일 인증번호 발송]
 <script src="https://gist.github.com/leesohyeon96/7856326263d5235e19a57f5c3b17a26c.js"></script>
 
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#semiprojectfirstgist)
+[되돌아가기](https://leesohyeon96.github.io/semiprojectcode/#first)
 
