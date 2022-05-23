@@ -7,7 +7,7 @@ title: Semi Project - 캘린더[일정 생성]
 
 **Semi Project - 캘린더[일정 생성]**  
 
-**HTML**
+**JSP**
 <script src="https://gist.github.com/leesohyeon96/30def6811a4c5e3d934e89cb566feec8.js"></script>  
 
 **Controller**
