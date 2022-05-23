@@ -158,6 +158,7 @@ subtitle: 진행한 프로젝트들
 <br/>
 
 - **전반적인 설계 과정**
+  <br/>
   <img src="../img/finalModeling1.png">
   => **논리모델링 1.0.0ver ~ 2.0.0ver까지 설계하였습니다.**  
  <br/>
