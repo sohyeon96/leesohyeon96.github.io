@@ -6,8 +6,14 @@ title: JAVA
 [되돌아가기](https://leesohyeon96.github.io/study)  
 
 ***
-자바 개념은 여기다가?
 
+# Java 란?  
+ - 배우기 쉽다
+ - 객체지향적이다
+ - 플랫폼에 독립적이다
+
+# 객체지향이 뭐지?
+ - Object(객체)지향은 
 
 ***  
 
