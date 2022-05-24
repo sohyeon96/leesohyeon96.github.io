@@ -6,7 +6,7 @@ subtitle: 중요하거나, 모르는 개념들
 ***
 
 # 목차
-- [JAVA](http://)
+- [JAVA](https://leesohyeon96.github.io/study/java.md)
 - [Spring](http://)
 - [Mybatis](http://)
 - [JPA](http://)
