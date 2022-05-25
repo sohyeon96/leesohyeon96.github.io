@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 마왕 김진호를 JAVA
 ---
 ***
 
