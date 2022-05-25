@@ -21,9 +21,11 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 # 지금까지 사용해본 것들
 
   - 언어 : java 
-  - 기술 : jdbc , ajax,  oracle(DB) , jquery, javascript, tomcat 등
-  - 툴 : eclipse, STS, intellij, DBever, Sqldeveloper64W, VScode 등
 
+  - 기술 : jdbc , ajax,  oracle(DB) , jquery, javascript, tomcat, Mybatis, JPA, React 등
+
+  - 툴 : eclipse, STS, intellij, DBever, Sqldeveloper64W, VScode 등  
+  
 ***  
 
 # 어떤 개발자가 되고 싶은가?  
