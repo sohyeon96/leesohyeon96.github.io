@@ -36,7 +36,7 @@ title: 마왕 김진호를 JAVA
 
 - **미니 프로젝트의 모든 산출물**  
 
-  [마왕 김진호를 JAVA 노션 페이지](https://www.notion.so/Mini-Project-a95ff3973e464402bcd7db711e8ab750)
+  [마왕 김진호를 JAVA 노션 페이지](https://www.notion.so/JAVA-e5deb51e3f6740aa8a5d5697ef8b6673)
 
 <!-- 
 ##### miniproject  
