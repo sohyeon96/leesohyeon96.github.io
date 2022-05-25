@@ -4,13 +4,19 @@ title: Projects
 subtitle: 진행한 프로젝트들
 ---
 
-## projects
+# 진행한 프로젝트 목록
 
-- [Mini Project](#mini)
-- [Semi Project](#semi)
-- [Final Project](#final)
+- **[Mini Project - 마왕 김진호를 JAVA]**(miniproject.md)
+- **[Semi Project - BYAT(Better-than-Your-Agile-Tool)]**(semiproject.md)
+- **[Final Project - JaeGoJaeGo ]**(finalproject.md)
 
 ***
+
+
+
+
+# 밑으로 지울 것임
+
 ## mini
 - **프로젝트 이름** : 마왕 김진호를 JAVA
 
