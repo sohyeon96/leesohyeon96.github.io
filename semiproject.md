@@ -48,7 +48,7 @@ title: BYAT
 
   <img src="../img/SemiProgress.png">
 
-  <img src="../img/semiIssueTracking.png">
+<!--   <img src="../img/semiIssueTracking.png"> -->
 
 
 <!-- ***
