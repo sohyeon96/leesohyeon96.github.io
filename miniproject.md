@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-***
 
 # Mini Project - 마왕 김진호를 JAVA
+***
   
 - **프로젝트 이름** : 마왕 김진호를 JAVA
 
