@@ -140,6 +140,8 @@ subtitle: 진행한 프로젝트들
   - Sourcetree
   - DBeaver
   - GitLab 
+  - Mabatis
+  - JPA
   <img src="../img/finalTools.png">
   <img src="../img/finalTools2.png">  
 
