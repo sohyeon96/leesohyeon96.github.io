@@ -20,6 +20,9 @@ title: BYAT
   - **Sourcetree** 
   - **DBeaver**
   - **GitLab**
+  
+  <br/>
+  
   <img src="../img/semiTools.png">
 
 ***
