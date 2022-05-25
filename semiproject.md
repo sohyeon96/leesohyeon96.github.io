@@ -51,6 +51,12 @@ title: BYAT
   
 <br/>
 
+
+- **BYAT 프로젝트의 모든 산출물**
+  [BYAT의 노션 페이지](http://)
+
+
+
 - **구체적인 코드 설명[3가지]**
   ##### semiproject  
   [Semi Project 코드설명](semiprojectcode.md)  
