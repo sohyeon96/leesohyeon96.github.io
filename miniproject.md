@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Projects
-subtitle: 진행한 프로젝트들
+title: 마왕 김진호를 JAVA
 ---
 ***
 
-# Mini Project - 마왕 김진호를 자바
+# Mini Project - 마왕 김진호를 JAVA
   
 - **프로젝트 이름** : 마왕 김진호를 JAVA
 
