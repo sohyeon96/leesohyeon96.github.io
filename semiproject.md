@@ -4,8 +4,6 @@ title: BYAT
 ---
 ***
 
-# Semi Project - BYAT(Better-than-Your-Agile-Tool)
-
 - **프로젝트 이름** : BYAT(Better-than-Your-Agile-Tool)  
 
 - **프로젝트 진행기간** : 2021.12.22 ~ 2022.03.14
