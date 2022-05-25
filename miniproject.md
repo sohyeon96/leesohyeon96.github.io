@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 
 ---
 
 # Mini Project - 마왕 김진호를 JAVA
