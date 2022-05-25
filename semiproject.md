@@ -50,12 +50,14 @@ title: BYAT
 
   <img src="../img/semiIssueTracking.png">
 
-***
+
+<!-- ***
 
 - **팀원 한마디 : '적극적이며 의사소통이 활발한 팀원'**
 
   <img src="../img/semiProjectTeamIntroduce.png">
 
+ -->
 
 ***
 
