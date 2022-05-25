@@ -22,7 +22,7 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
   - **언어 : java, javascript** 
 
-  - **기술 : jdbc , ajax,  oracle(DB) , jquery, tomcat, Mybatis, JPA, React** 등
+  - **기술 : jdbc , ajax,  oracle(DB) , jquery, tomcat, Mybatis, JPA, React 등**
 
   - **툴 : eclipse, STS, intellij, DBever, Sqldeveloper64W, VScode 등**  
   
@@ -40,7 +40,7 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
    <img src="../img/notionStudy.png">  
 
-  **2)  배운 개념을 조금이라도 활용하여 `'개인 미니 프로젝트'` 를 만들기도 하였습니다. 
+  **2)  배운 개념을 조금이라도 활용하여 `'개인 미니 프로젝트'` 를 만들기도 하였습니다.**
 
    <img src="../img/newPersonalProjects1.png">
 
