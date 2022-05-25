@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Projects
-subtitle: 진행한 프로젝트들
+title: BYAT
 ---
 ***
 
