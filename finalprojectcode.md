@@ -3,7 +3,7 @@ layout: page
 title: Final Project
 ---
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#finalproject)
+[되돌아가기](https://leesohyeon96.github.io/finalproject/#finalproject)
 
 # Final Project 코드 설명[2가지]  
 
@@ -70,4 +70,4 @@ title: Final Project
 
 ***  
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#finalproject)
+[되돌아가기](https://leesohyeon96.github.io/finalproject/#finalproject)
