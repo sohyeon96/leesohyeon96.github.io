@@ -36,7 +36,7 @@ title: JaeGoJaeGo
   <img src="../img/finalTools.png">
   <img src="../img/finalTools2.png">  
 
-<br/>
+***
 
 - **맡은 역할 : 형상관리자 (깃랩, 소스트리 commit & push, merge, commitMessage 관리)**
   <img src="../img/finalRole1.png">
@@ -49,8 +49,7 @@ title: JaeGoJaeGo
 
   <img src="../img/finalProjectTeamIntroduce.png">   -->
 
-
-<br/>
+***
 
 - **전반적인 설계 과정**
   <br/>
