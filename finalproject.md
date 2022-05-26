@@ -87,7 +87,7 @@ title: JaeGoJaeGo
   
   - **파이널 프로젝트의 모든 산출물**  
 
-  [JaeGoJaeGo 노션 페이지](https://)
+    [JaeGoJaeGo 노션 페이지](https://)
 
 ***  
   
