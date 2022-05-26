@@ -22,9 +22,9 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
   - **언어 : java, javascript** 
 
-  - **기술 : jdbc , ajax,  oracle(DB) , jquery, tomcat, Mybatis, JPA, React 등**
+  - **스택 : jdbc , ajax,  oracle(DB) , jquery, tomcat, Mybatis, JPA, React**
 
-  - **툴 : eclipse, STS, intellij, DBever, Sqldeveloper64W, VScode 등**  
+  - **툴 : eclipse, STS, intellij, DBever, Sqldeveloper64W, VScode**  
   
 ***  
 
