@@ -3,7 +3,7 @@ layout: page
 title: Semi Project
 ---
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#semiproject)
+[되돌아가기](https://leesohyeon96.github.io/semiproject/#semiproject)
 
 # Semi Project 코드 설명[3가지]  
 
@@ -74,4 +74,4 @@ title: Semi Project
 
 ***  
 
-[되돌아가기](https://leesohyeon96.github.io/projects/#semiproject)
+[되돌아가기](https://leesohyeon96.github.io/semiproject/#semiproject)
