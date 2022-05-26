@@ -5,41 +5,48 @@ title: JaeGoJaeGo
 ***  
 
 
-- **프로젝트 이름** : JaeGoJaeGo  
+- **프로젝트 이름 : JaeGoJaeGo**  
 
-- **프로젝트 진행기간** : 2022.03.15 ~ 2022.05.16
+- **프로젝트 진행기간 : 2022.03.15 ~ 2022.05.16**
 
-- **프로젝트 소개** : 카페 프렌차이즈를 대상으로 한 카페 재고 및 운영관리 플랫폼
+- **진행인원 : 7명**
+
+- **프로젝트 소개 : 카페 프렌차이즈를 대상으로 한 카페 재고 및 운영관리 플랫폼**
+
+- **주제를 'SCM'으로 정한 이유**
+  - **ㄱㄷ**
 
 - **개발 환경**
-  - Java
-  - Spring Data-JPA 
-  - Oracle
-  - intellij 
-  - HTML5
-  - CSS3 
-  - JavaScript 
-  - jQuery 
-  - BootStrap 
-  - Sourcetree
-  - DBeaver
-  - GitLab 
-  - Mabatis
-  - JPA
+  - **`Java`**
+  - **`Spring Data-JPA`** 
+  - **`Oracle`**
+  - **`intellij`** 
+  - **`HTML5`**
+  - **`CSS3`** 
+  - **`JavaScript`** 
+  - **`jQuery`** 
+  - **`BootStrap`** 
+  - **`Sourcetree`**
+  - **`DBeaver`**
+  - **`GitLab`** 
+  - **`Mabatis`**
+  - **`JPA`**
   <img src="../img/finalTools.png">
   <img src="../img/finalTools2.png">  
 
 <br/>
 
-- **맡은 역할** : 형상관리자 (깃랩, 소스트리 commit & push, merge, commitMessage 관리)
+- **맡은 역할 : 형상관리자 (깃랩, 소스트리 commit & push, merge, commitMessage 관리)**
   <img src="../img/finalRole1.png">
   <img src="../img/finalRole2.png">  
 
-<br/>
 
-- **팀원 한마디** : '적극적이며 행동력 있는 팀원'
+<!-- <br/>
 
-  <img src="../img/finalProjectTeamIntroduce.png">  
+- **팀원 한마디 : '적극적이며 행동력 있는 팀원'**
+
+  <img src="../img/finalProjectTeamIntroduce.png">   -->
+
 
 <br/>
 
@@ -75,7 +82,14 @@ title: JaeGoJaeGo
    
      
      
-  <br/>
+***
+  
+  - **파이널 프로젝트의 모든 산출물**  
+
+  [JaeGoJaeGo 노션 페이지](https://)
+
+***  
+  
   
 - **구체적인 코드 설명[2가지]**
 ##### finalproject  
