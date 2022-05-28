@@ -9,7 +9,8 @@ title: Spring
 
 # Spring이란? 
 
-- **JAVA의 웹 *프레임워크(Framework)로 JAVA언어를 기반으로 사용**
+- **JAVA의 웹 *프레임워크(Framework)로 JAVA언어를 기반으로 사용**  
+
 - **개발을 더 쉽게 해주는 프로그램 틀**
 
 ***
