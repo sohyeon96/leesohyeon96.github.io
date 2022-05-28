@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 캘린더[일정 생성]
+
 ---
 
 [되돌아가기](https://leesohyeon96.github.io/semiprojectcode/#second)
 
-## Semi Project - 캘린더[일정 생성]  
+# 캘린더[일정 생성]  
 ***
 
 **JSP**
