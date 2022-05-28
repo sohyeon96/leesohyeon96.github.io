@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 메뉴관리[메뉴수정]
+
 ---
 
 [되돌아가기](https://leesohyeon96.github.io/finalprojectcode/#first)
 
-## Final Project - 메뉴관리[메뉴수정]
+# 메뉴관리[메뉴수정]
 ***
   
   **HTML**
