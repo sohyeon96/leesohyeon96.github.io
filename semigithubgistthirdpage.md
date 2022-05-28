@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 멤버 계정 관리[생성]
+
 ---
 
 [되돌아가기](https://leesohyeon96.github.io/semiprojectcode/#third)
 
-## Semi Project - 멤버 계정 관리[생성] 
+# 멤버 계정 관리[생성] 
 ***
 
 **JSP**
