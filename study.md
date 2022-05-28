@@ -9,15 +9,15 @@ subtitle: 중요하거나, 모르는 개념들
 - [JAVA](java.md)
 
 
-- [Spring](http://)
+- [Spring](spring.md)
 
 
-- [Mybatis](http://)
+- [Mybatis](mybatis.md)
 
 
-- [JPA](http://)
+- [JPA](jpa.md)
 
 
-- [Docker&AWS&Linux](http://)
+- [Docker&AWS&Linux](dockerwaslinux.md)
 
 ***
