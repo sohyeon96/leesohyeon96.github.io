@@ -5,7 +5,7 @@ layout: page
 
 [되돌아가기](https://leesohyeon96.github.io/semiprojectcode/#first)
 
-## Semi Project - 비밀번호 찾기[이메일 인증번호 발송]  
+# Semi Project - 비밀번호 찾기[이메일 인증번호 발송]  
 ***
 
 **JSP**
