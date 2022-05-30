@@ -81,8 +81,13 @@ title: BYAT
 ***
 
 - **구체적인 코드 설명[3가지]**
+
+  <img src="../img/semiProjectManagementRegist4.png">
+  => **00기능의 코드 작성 방식입니다.**  
+
+
   ##### semiproject  
-  [Semi Project 코드설명](semiprojectcode.md)  
+  [Semi Project 코드설명 자세히 보기](semiprojectcode.md)  
 
 ***
 
