@@ -19,8 +19,7 @@ title: JaeGoJaeGo
 <br/>
 
 - **개발 환경**
-  - **Java**
-  - **Spring Data-JPA** 
+  - **Java** 
   - **Oracle**
   - **intellij** 
   - **HTML5**
