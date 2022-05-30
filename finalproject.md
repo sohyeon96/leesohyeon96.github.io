@@ -100,7 +100,7 @@ title: JaeGoJaeGo
   => **메뉴 수정 기능의 코드 작성 방식입니다**
 
 ##### finalproject  
-  [Final Project 코드설명](finalprojectcode.md)    
+  [Final Project 코드설명 자세히 보기 ](finalprojectcode.md)    
   
   
   <br/>
