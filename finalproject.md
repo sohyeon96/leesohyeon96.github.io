@@ -95,6 +95,10 @@ title: JaeGoJaeGo
   
   
 - **구체적인 코드 설명[2가지]**
+
+  <img src="../img/finalProjectMenuModifyForProjectMenu.png">
+  => **메뉴 수정 기능의 코드 작성 방식입니다**
+
 ##### finalproject  
   [Final Project 코드설명](finalprojectcode.md)    
   
