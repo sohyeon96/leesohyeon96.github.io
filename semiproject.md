@@ -83,7 +83,7 @@ title: BYAT
 - **구체적인 코드 설명[3가지]**
 
   <img src="../img/semiProjectManagementRegist4.png">
-  => **00기능의 코드 작성 방식입니다.**  
+  => **멤버 계정 추가 기능의 코드 작성 방식입니다.**  
 
 
   ##### semiproject  
