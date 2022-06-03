@@ -94,7 +94,7 @@ title: BYAT
 
 - **BYAT 프로젝트의 모든 산출물**  
 
-  [BYAT의 노션 페이지](http://)
+  [BYAT의 노션 페이지](https://sudden-milk-758.notion.site/BYAT-Better-than-Your-Agile-Tool-552b6c9a4c99460abae451fdb6a1c3cf)
 
 
 ***
