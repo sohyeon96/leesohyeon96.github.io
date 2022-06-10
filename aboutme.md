@@ -42,7 +42,9 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
    <img src="../img/newPersonalProjects1.png">
 
-  **3)  Notion에서 dailyLog라는 `'매일 쓰는 개발일기'` 를 하루도 빠짐없이 작성하여 본인의 위치를 파악하고 반성하며 성장해나갈 수 있도록 하였습니다.**
+  **3)  Notion에서 dailyLog라는 `'매일 쓰는 개발일기'` 를 하루도 빠짐없이 작성하여 본인의 위치를 파악하고 반성하며 성장해나갈 수 있도록 하였습니다.**  
+  
+  [매일쓰는개발일기 페이지 보기](https://sudden-milk-758.notion.site/9c65175fc9514db3bad652df9023d98e?v=b89983b41e094218a83366220f8266f8)
 
    <img src="../img/notionDailyLog.png">
 
