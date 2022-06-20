@@ -20,4 +20,5 @@ subtitle: 중요하거나, 모르는 개념들
 
 - [Docker&AWS&Linux](dockerwaslinux.md)
 
+- [컴퓨터기본지식](manythings.md))
 ***
