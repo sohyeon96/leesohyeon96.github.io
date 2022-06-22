@@ -58,8 +58,8 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
 
 # 수료증  
 
-   <img src="../img/수료증.png">
-   <img src="../img/취업추천서.png>
+   <img src="../img/certificate.jpg">
+   <img src="../img/certificate2.jpg">
     
 
  
