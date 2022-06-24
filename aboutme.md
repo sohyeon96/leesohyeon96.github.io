@@ -18,21 +18,7 @@ subtitle: 개발자를 하기 위해 포항에서 올라온 성실한 예비 개
     
 # 사용해본 기술
 
-  - **언어 : java, javascript** 
-
-  - **스택 : jdbc , ajax,  oracle(DB) , jquery, tomcat, Mybatis, JPA, React**
-
-  - **툴 : eclipse, STS, intellij, DBever, Sqldeveloper64W, VScode**  
-
-
-
-
-
-
-|       LAGUAGE        |                           FRONTEND                           | backend                                                      |                            tools                             |           db            |
-| :------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | :---------------------: |
-| JAVA<br />javascript | HTML<br />CSS<br />JQuery<br />BootStrap<br />Ajax<br />JSP<br />React | JPA<br />Spring<br /><br />Mybatis<br /><br />JDBC<br /><br />Node.js<br />Tomcat apache | Eclipse<br />Intellij<br />STS<br />DBeaver<br />Sourcetree<br />GitLab<br />Bitbucket<br />SQLDeveloper<br />VScode | Oracle<br />MySQL<br /> |
-
+<img src="../img/skills.png">
 
   
 ***  
