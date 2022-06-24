@@ -89,7 +89,7 @@ title: JaeGoJaeGo
   
   - **파이널 프로젝트의 모든 산출물**  
 
-    [JaeGoJaeGo 노션 페이지](https://)
+    [JaeGoJaeGo 노션 페이지](https://sudden-milk-758.notion.site/9953dde2bd24403794f22c5c9ea0cdbd)
 
 ***  
   
